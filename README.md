@@ -1,3 +1,3 @@
 [https://emjaygaiyem.dev/curriculum-vitae/
-](C:\Users\User\OneDrive\Desktop\Projects\index.html)
+](http://127.0.0.1:5500/index.html)
 https://roadmap.sh/projects/single-page-cv
