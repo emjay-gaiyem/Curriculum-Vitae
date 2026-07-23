@@ -1,3 +1,3 @@
 [https://emjaygaiyem.dev/curriculum-vitae/
-](https://emjay-gaiyem.github.io/Curriculum-Vitae/)
+](http://127.0.0.1:5500/index.html)
 https://roadmap.sh/projects/single-page-cv
