@@ -1,2 +1,1 @@
-C:\Users\User\OneDrive\Desktop\Projects\Curriculum20%Vitae.html
-C:\Users\User\OneDrive\Desktop\Projects\Curriculum Vitae.html
+http://127.0.0.1:5500/Curriculum%20Vitae.html
