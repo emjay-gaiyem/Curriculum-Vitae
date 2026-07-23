@@ -1,1 +1,1 @@
-[C:\Users\User\OneDrive\Desktop\Projects\Curriculum Vitae.html](https://roadmap.sh/projects/single-page-cv)
+C:\Users\User\OneDrive\Desktop\Projects\Curriculum Vitae.html
